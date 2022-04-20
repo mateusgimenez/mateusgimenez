@@ -11,7 +11,7 @@
   <img align="center" alt="Teus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Teus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Teus-pic" height="150" style="border-radius:50px;" 
-  src="https://cdn.discordapp.com/attachments/905668746004287528/931429662733783050/WhatsApp_Image_2022-01-14_at_02.55.54.jpeg">
+  src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">
 </div>
 
  ##
